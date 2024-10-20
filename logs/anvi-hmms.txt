@@ -1,0 +1,323 @@
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:54 Initializing the dictionary for gene calls] ...                                                                                 [0m                                                                                                                                                     [0;36mContigs DB[0m ...................................: [0;33mCONTIGS.db[0m
+[0;36mHMM sources[0m ..................................: [0;33mBacteria_71, Archaea_76, Ribosomal_RNA_23S, Ribosomal_RNA_28S, Ribosomal_RNA_5S, Ribosomal_RNA_16S,
+                                                Ribosomal_RNA_12S, Protista_83, Ribosomal_RNA_18S[0m
+[0;36mAlphabet/context target found[0m ................: [0;33mRNA:CONTIG[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] ...                                                                                                     [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Reading **ALL** data from `splits basic info` table :(                                                  [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Reading **ALL** data from `genes in splits` table :(                                                    [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Reading **ALL** data from `contigs basic info` table :(                                                 [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Reading **ALL** data from `genes in contigs` table :(                                                   [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Reading **ALL** entries in the nucleotide positions info table :(                                       [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Populating gene lengths dict                                                                            [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Populating contig name to gene IDs dict                                                                 [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Identifying HMM searches for single-copy genes and others                                               [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Generating "split name" to "gene entry ids" mapping dict                                                [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Generating "gene caller id" to "split name" mapping dict                                                [0m                                                                                                                                                     [0;36mAlphabet/context target found[0m ................: [0;33mAA:GENE[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] ...                                                                                                     [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Reading **ALL** data from `splits basic info` table :(                                                  [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Reading **ALL** data from `genes in splits` table :(                                                    [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Reading **ALL** data from `contigs basic info` table :(                                                 [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Reading **ALL** data from `genes in contigs` table :(                                                   [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Reading **ALL** entries in the nucleotide positions info table :(                                       [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Populating gene lengths dict                                                                            [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Populating contig name to gene IDs dict                                                                 [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Identifying HMM searches for single-copy genes and others                                               [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Generating "split name" to "gene entry ids" mapping dict                                                [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading the contigs DB] Generating "gene caller id" to "split name" mapping dict                                                [0m                                                                                                                                                                                                                                                                                                          [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading contig sequences] Reading **SOME** data from `contig sequences` table :)                                                [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Loading contig sequences] Reading **SOME** data from `genes in contigs` table :)                                                [0m                                                                                                                                                                                                                                                                                                          [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Filtering contig sequences] Identifying contigs shorter than M                                                                  [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Filtering contig sequences] Filtering out shorter contigs                                                                       [0m                                                                                                                                                                                                                                                                                                          [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Working on sequences data structure] ...                                                                                        [0m                                                                                                                                                                                                                                                                                                          [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Storing sequences] ...                                                                                                          [0m                                                                                                                                                     [0;36mTarget sequences determined[0m ..................: [0;33m3 sequences for RNA:CONTIG; 22 sequences for AA:GENE[0m
+[0;32m
+HMM Profiling for Bacteria_71
+===============================================
+[0m[0;36mReference[0m ....................................: [0;33mLee modified, https://doi.org/10.1093/bioinformatics/btz188[0m
+[0;36mKind[0m .........................................: [0;33msinglecopy[0m
+[0;36mAlphabet[0m .....................................: [0;33mAA[0m
+[0;36mContext[0m ......................................: [0;33mGENE[0m
+[0;36mDomain[0m .......................................: [0;33mbacteria[0m
+[0;36mHMM model path[0m ...............................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp02w4dd49/Bacteria_71.hmm[0m
+[0;36mNumber of genes in HMM model[0m .................: [0;33m71[0m
+[0;36mNoise cutoff term(s)[0m .........................: [0;33m--cut_ga[0m
+[0;36mNumber of CPUs will be used for search[0m .......: [0;33m4[0m
+[0;36mHMMer program used for search[0m ................: [0;33mhmmscan[0m
+[0;36mTemporary work dir[0m ...........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne[0m
+[0;36mLog file for thread 0[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.0_log[0m
+[0;36mLog file for thread 1[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.1_log[0m
+[0;36mLog file for thread 2[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.2_log[0m
+[0;36mLog file for thread 3[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.3_log[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Processing] Running hmmscan in 4 threads...                                                                                     [0m                                                                                                                                                     
+[0;36mDone with Bacteria_71 🎊
+[0m
+                                                                                                                                                     [0;36mNumber of raw hits in table file[0m .............: [0;33m0[0m
+
+[0;33m* The HMM source 'Bacteria_71' returned 0 hits. SAD (but it's OK).
+[0m[0;32m
+HMM Profiling for Archaea_76
+===============================================
+[0m[0;36mReference[0m ....................................: [0;33mLee, https://doi.org/10.1093/bioinformatics/btz188[0m
+[0;36mKind[0m .........................................: [0;33msinglecopy[0m
+[0;36mAlphabet[0m .....................................: [0;33mAA[0m
+[0;36mContext[0m ......................................: [0;33mGENE[0m
+[0;36mDomain[0m .......................................: [0;33marchaea[0m
+[0;36mHMM model path[0m ...............................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp02w4dd49/Archaea_76.hmm[0m
+[0;36mNumber of genes in HMM model[0m .................: [0;33m76[0m
+[0;36mNoise cutoff term(s)[0m .........................: [0;33m--cut_ga[0m
+[0;36mNumber of CPUs will be used for search[0m .......: [0;33m4[0m
+[0;36mHMMer program used for search[0m ................: [0;33mhmmscan[0m
+[0;36mTemporary work dir[0m ...........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne[0m
+[0;36mLog file for thread 0[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.0_log[0m
+[0;36mLog file for thread 1[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.1_log[0m
+[0;36mLog file for thread 2[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.2_log[0m
+[0;36mLog file for thread 3[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.3_log[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Processing] Running hmmscan in 4 threads...                                                                                     [0m                                                                                                                                                     
+[0;36mDone with Archaea_76 🎊
+[0m
+                                                                                                                                                     [0;36mNumber of raw hits in table file[0m .............: [0;33m0[0m
+
+[0;33m* The HMM source 'Archaea_76' returned 0 hits. SAD (but it's OK).
+[0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] ...                                                                                          [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] Getting data from HMM tables for 1 source(s)                                                 [0m                                                                                                                                                                                                                                                                                                          [0;31m
+WARNING
+===============================================
+[0m[0;31mSequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+[0m[0;32m
+HMM Profiling for Ribosomal_RNA_23S
+===============================================
+[0m[0;36mReference[0m ....................................: [0;33mSeeman T, https://github.com/tseemann/barrnap[0m
+[0;36mKind[0m .........................................: [0;33mRibosomal_RNA_23S[0m
+[0;36mAlphabet[0m .....................................: [0;33mRNA[0m
+[0;36mContext[0m ......................................: [0;33mCONTIG[0m
+[0;36mDomain[0m .......................................: [0;33mN/A[0m
+[0;36mHMM model path[0m ...............................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp02w4dd49/Ribosomal_RNA_23S.hmm[0m
+[0;36mNumber of genes in HMM model[0m .................: [0;33m2[0m
+[0;36mNoise cutoff term(s)[0m .........................: [0;33m--cut_ga[0m
+[0;36mNumber of CPUs will be used for search[0m .......: [0;33m4[0m
+[0;36mHMMer program used for search[0m ................: [0;33mnhmmscan[0m
+[0;36mTemporary work dir[0m ...........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c[0m
+[0;31m
+WARNING
+===============================================
+[0m[0;31mYou requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+[0m[0;36mLog file for thread 0[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.0_log[0m
+[0;36mLog file for thread 1[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.1_log[0m
+[0;36mLog file for thread 2[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.2_log[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Processing] Running hmmscan in 3 threads...                                                                                     [0m                                                                                                                                                     
+[0;36mDone with Ribosomal_RNA_23S 🎊 (and num threads requested is set back to 4).
+[0m
+                                                                                                                                                     [0;36mNumber of raw hits in table file[0m .............: [0;33m0[0m
+
+[0;33m* The HMM source 'Ribosomal_RNA_23S' returned 0 hits. SAD (but it's OK).
+[0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] ...                                                                                          [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] Getting data from HMM tables for 2 source(s)                                                 [0m                                                                                                                                                                                                                                                                                                          [0;31m
+WARNING
+===============================================
+[0m[0;31mSequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+[0m[0;32m
+HMM Profiling for Ribosomal_RNA_28S
+===============================================
+[0m[0;36mReference[0m ....................................: [0;33mSeeman T, https://github.com/tseemann/barrnap[0m
+[0;36mKind[0m .........................................: [0;33mRibosomal_RNA_28S[0m
+[0;36mAlphabet[0m .....................................: [0;33mRNA[0m
+[0;36mContext[0m ......................................: [0;33mCONTIG[0m
+[0;36mDomain[0m .......................................: [0;33mN/A[0m
+[0;36mHMM model path[0m ...............................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp02w4dd49/Ribosomal_RNA_28S.hmm[0m
+[0;36mNumber of genes in HMM model[0m .................: [0;33m1[0m
+[0;36mNoise cutoff term(s)[0m .........................: [0;33m--cut_ga[0m
+[0;36mNumber of CPUs will be used for search[0m .......: [0;33m4[0m
+[0;36mHMMer program used for search[0m ................: [0;33mnhmmscan[0m
+[0;36mTemporary work dir[0m ...........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c[0m
+[0;31m
+WARNING
+===============================================
+[0m[0;31mYou requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+[0m[0;36mLog file for thread 0[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.0_log[0m
+[0;36mLog file for thread 1[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.1_log[0m
+[0;36mLog file for thread 2[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.2_log[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Processing] Running hmmscan in 3 threads...                                                                                     [0m                                                                                                                                                     
+[0;36mDone with Ribosomal_RNA_28S 🎊 (and num threads requested is set back to 4).
+[0m
+                                                                                                                                                     [0;36mNumber of raw hits in table file[0m .............: [0;33m0[0m
+
+[0;33m* The HMM source 'Ribosomal_RNA_28S' returned 0 hits. SAD (but it's OK).
+[0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] ...                                                                                          [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] Getting data from HMM tables for 3 source(s)                                                 [0m                                                                                                                                                                                                                                                                                                          [0;31m
+WARNING
+===============================================
+[0m[0;31mSequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+[0m[0;32m
+HMM Profiling for Ribosomal_RNA_5S
+===============================================
+[0m[0;36mReference[0m ....................................: [0;33mSeeman T, https://github.com/tseemann/barrnap[0m
+[0;36mKind[0m .........................................: [0;33mRibosomal_RNA_5S[0m
+[0;36mAlphabet[0m .....................................: [0;33mRNA[0m
+[0;36mContext[0m ......................................: [0;33mCONTIG[0m
+[0;36mDomain[0m .......................................: [0;33mN/A[0m
+[0;36mHMM model path[0m ...............................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp02w4dd49/Ribosomal_RNA_5S.hmm[0m
+[0;36mNumber of genes in HMM model[0m .................: [0;33m5[0m
+[0;36mNoise cutoff term(s)[0m .........................: [0;33m--cut_ga[0m
+[0;36mNumber of CPUs will be used for search[0m .......: [0;33m4[0m
+[0;36mHMMer program used for search[0m ................: [0;33mnhmmscan[0m
+[0;36mTemporary work dir[0m ...........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c[0m
+[0;31m
+WARNING
+===============================================
+[0m[0;31mYou requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+[0m[0;36mLog file for thread 0[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.0_log[0m
+[0;36mLog file for thread 1[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.1_log[0m
+[0;36mLog file for thread 2[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.2_log[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Processing] Running hmmscan in 3 threads...                                                                                     [0m                                                                                                                                                     
+[0;36mDone with Ribosomal_RNA_5S 🎊 (and num threads requested is set back to 4).
+[0m
+                                                                                                                                                     [0;36mNumber of raw hits in table file[0m .............: [0;33m0[0m
+
+[0;33m* The HMM source 'Ribosomal_RNA_5S' returned 0 hits. SAD (but it's OK).
+[0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] ...                                                                                          [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] Getting data from HMM tables for 4 source(s)                                                 [0m                                                                                                                                                                                                                                                                                                          [0;31m
+WARNING
+===============================================
+[0m[0;31mSequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+[0m[0;32m
+HMM Profiling for Ribosomal_RNA_16S
+===============================================
+[0m[0;36mReference[0m ....................................: [0;33mSeeman T, https://github.com/tseemann/barrnap[0m
+[0;36mKind[0m .........................................: [0;33mRibosomal_RNA_16S[0m
+[0;36mAlphabet[0m .....................................: [0;33mRNA[0m
+[0;36mContext[0m ......................................: [0;33mCONTIG[0m
+[0;36mDomain[0m .......................................: [0;33mN/A[0m
+[0;36mHMM model path[0m ...............................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp02w4dd49/Ribosomal_RNA_16S.hmm[0m
+[0;36mNumber of genes in HMM model[0m .................: [0;33m3[0m
+[0;36mNoise cutoff term(s)[0m .........................: [0;33m--cut_ga[0m
+[0;36mNumber of CPUs will be used for search[0m .......: [0;33m4[0m
+[0;36mHMMer program used for search[0m ................: [0;33mnhmmscan[0m
+[0;36mTemporary work dir[0m ...........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c[0m
+[0;31m
+WARNING
+===============================================
+[0m[0;31mYou requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+[0m[0;36mLog file for thread 0[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.0_log[0m
+[0;36mLog file for thread 1[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.1_log[0m
+[0;36mLog file for thread 2[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.2_log[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Processing] Running hmmscan in 3 threads...                                                                                     [0m                                                                                                                                                     
+[0;36mDone with Ribosomal_RNA_16S 🎊 (and num threads requested is set back to 4).
+[0m
+                                                                                                                                                     [0;36mNumber of raw hits in table file[0m .............: [0;33m0[0m
+
+[0;33m* The HMM source 'Ribosomal_RNA_16S' returned 0 hits. SAD (but it's OK).
+[0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] ...                                                                                          [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] Getting data from HMM tables for 5 source(s)                                                 [0m                                                                                                                                                                                                                                                                                                          [0;31m
+WARNING
+===============================================
+[0m[0;31mSequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+[0m[0;32m
+HMM Profiling for Ribosomal_RNA_12S
+===============================================
+[0m[0;36mReference[0m ....................................: [0;33mSeeman T, https://github.com/tseemann/barrnap[0m
+[0;36mKind[0m .........................................: [0;33mRibosomal_RNA_12S[0m
+[0;36mAlphabet[0m .....................................: [0;33mRNA[0m
+[0;36mContext[0m ......................................: [0;33mCONTIG[0m
+[0;36mDomain[0m .......................................: [0;33mN/A[0m
+[0;36mHMM model path[0m ...............................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp02w4dd49/Ribosomal_RNA_12S.hmm[0m
+[0;36mNumber of genes in HMM model[0m .................: [0;33m1[0m
+[0;36mNoise cutoff term(s)[0m .........................: [0;33m--cut_ga[0m
+[0;36mNumber of CPUs will be used for search[0m .......: [0;33m4[0m
+[0;36mHMMer program used for search[0m ................: [0;33mnhmmscan[0m
+[0;36mTemporary work dir[0m ...........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c[0m
+[0;31m
+WARNING
+===============================================
+[0m[0;31mYou requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+[0m[0;36mLog file for thread 0[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.0_log[0m
+[0;36mLog file for thread 1[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.1_log[0m
+[0;36mLog file for thread 2[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.2_log[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Processing] Running hmmscan in 3 threads...                                                                                     [0m                                                                                                                                                     
+[0;36mDone with Ribosomal_RNA_12S 🎊 (and num threads requested is set back to 4).
+[0m
+                                                                                                                                                     [0;36mNumber of raw hits in table file[0m .............: [0;33m0[0m
+
+[0;33m* The HMM source 'Ribosomal_RNA_12S' returned 0 hits. SAD (but it's OK).
+[0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] ...                                                                                          [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Recovering sequences for HMM Hits] Getting data from HMM tables for 6 source(s)                                                 [0m                                                                                                                                                                                                                                                                                                          [0;31m
+WARNING
+===============================================
+[0m[0;31mSequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+[0m[0;32m
+HMM Profiling for Protista_83
+===============================================
+[0m[0;36mReference[0m ....................................: [0;33mDelmont, http://merenlab.org/delmont-euk-scgs[0m
+[0;36mKind[0m .........................................: [0;33msinglecopy[0m
+[0;36mAlphabet[0m .....................................: [0;33mAA[0m
+[0;36mContext[0m ......................................: [0;33mGENE[0m
+[0;36mDomain[0m .......................................: [0;33meukarya[0m
+[0;36mHMM model path[0m ...............................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp02w4dd49/Protista_83.hmm[0m
+[0;36mNumber of genes in HMM model[0m .................: [0;33m83[0m
+[0;36mNoise cutoff term(s)[0m .........................: [0;33m-E 1e-25[0m
+[0;36mNumber of CPUs will be used for search[0m .......: [0;33m4[0m
+[0;36mHMMer program used for search[0m ................: [0;33mhmmscan[0m
+[0;36mTemporary work dir[0m ...........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne[0m
+[0;36mLog file for thread 0[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.0_log[0m
+[0;36mLog file for thread 1[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.1_log[0m
+[0;36mLog file for thread 2[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.2_log[0m
+[0;36mLog file for thread 3[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpnaqvfcne/AA_gene_sequences.fa.3_log[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:55 Processing] Running hmmscan in 4 threads...                                                                                     [0m                                                                                                                                                     
+[0;36mDone with Protista_83 🎊
+[0m
+                                                                                                                                                     [0;36mNumber of raw hits in table file[0m .............: [0;33m0[0m
+
+[0;33m* The HMM source 'Protista_83' returned 0 hits. SAD (but it's OK).
+[0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:56 Recovering sequences for HMM Hits] ...                                                                                          [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:56 Recovering sequences for HMM Hits] Getting data from HMM tables for 7 source(s)                                                 [0m                                                                                                                                                                                                                                                                                                          [0;31m
+WARNING
+===============================================
+[0m[0;31mSequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+[0m[0;32m
+HMM Profiling for Ribosomal_RNA_18S
+===============================================
+[0m[0;36mReference[0m ....................................: [0;33mSeeman T, https://github.com/tseemann/barrnap[0m
+[0;36mKind[0m .........................................: [0;33mRibosomal_RNA_18S[0m
+[0;36mAlphabet[0m .....................................: [0;33mRNA[0m
+[0;36mContext[0m ......................................: [0;33mCONTIG[0m
+[0;36mDomain[0m .......................................: [0;33mN/A[0m
+[0;36mHMM model path[0m ...............................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp02w4dd49/Ribosomal_RNA_18S.hmm[0m
+[0;36mNumber of genes in HMM model[0m .................: [0;33m1[0m
+[0;36mNoise cutoff term(s)[0m .........................: [0;33m--cut_ga[0m
+[0;36mNumber of CPUs will be used for search[0m .......: [0;33m4[0m
+[0;36mHMMer program used for search[0m ................: [0;33mnhmmscan[0m
+[0;36mTemporary work dir[0m ...........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c[0m
+[0;31m
+WARNING
+===============================================
+[0m[0;31mYou requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+[0m[0;36mLog file for thread 0[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.0_log[0m
+[0;36mLog file for thread 1[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.1_log[0m
+[0;36mLog file for thread 2[0m ........................: [0;33m/var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpepplie5c/RNA_contig_sequences.fa.2_log[0m
+                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:56 Processing] Running hmmscan in 3 threads...                                                                                     [0m                                                                                                                                                     
+[0;36mDone with Ribosomal_RNA_18S 🎊 (and num threads requested is set back to 4).
+[0m
+                                                                                                                                                     [0;36mNumber of raw hits in table file[0m .............: [0;33m0[0m
+
+[0;33m* The HMM source 'Ribosomal_RNA_18S' returned 0 hits. SAD (but it's OK).
+[0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:56 Recovering sequences for HMM Hits] ...                                                                                          [0m                                                                                                                                                     [48;5;6m[38;5;0m[20 Oct 24 14:19:56 Recovering sequences for HMM Hits] Getting data from HMM tables for 8 source(s)                                                 [0m                                                                                                                                                                                                                                                                                                          [0;31m
+WARNING
+===============================================
+[0m[0;31mSequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+[0m

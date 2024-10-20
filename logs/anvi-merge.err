@@ -1,0 +1,51 @@
+profiler_version .............................: 38
+output_dir ...................................: /Users/telatina/Downloads/EBAME9/WORKFLOW_MATERIAL/genoems/anvi-minimal/MINITEST
+sample_id ....................................: MINITEST
+description ..................................: None
+profile_db ...................................: /Users/telatina/Downloads/EBAME9/WORKFLOW_MATERIAL/genoems/anvi-minimal/MINITEST/PROFILE.db
+merged .......................................: True
+contigs_db_hash ..............................: hash5ffc30af
+num_runs_processed ...........................: 16
+merged_sample_ids ............................: sample1, sample2
+fetch_filter .................................: None, None
+min_percent_identity .........................: 0.0, 0.0
+Common layer additional data keys ............: default
+total_reads_mapped ...........................: 1252, 1240
+cmd_line .....................................: /Users/telatina/miniconda3/envs/anvio-8/bin/anvi-merge bam/sample1/PROFILE.db bam/sample2/PROFILE.db -o ./MINITEST -c CONTIGS.db
+clustering_performed .........................: True
+
+WARNING
+===============================================
+Codon frequencies were not profiled, hence, these tables will be empty in the
+merged profile database.
+
+
+* Anvi'o hierarchical clustering of contigs...
+
+New items order ..............................: "tnf:euclidean:ward" (type newick) has been added to the database...
+New items order ..............................: "tnf-cov:euclidean:ward" (type newick) has been added to the database...
+New items order ..............................: "cov:euclidean:ward" (type newick) has been added to the database...
+
+* Additional data and layer orders...
+
+Auxiliary Data ...............................: Found:
+                                                /Users/telatina/Downloads/EBAME9/WORKFLOW_MATERIAL/genoems/anvi-minimal/MINITEST/AUXILIARY-DATA.db
+                                                (v. 2)
+Profile Super ................................: Initialized with all 3 splits:
+                                                /Users/telatina/Downloads/EBAME9/WORKFLOW_MATERIAL/genoems/anvi-minimal/MINITEST/PROFILE.db (v. 38)
+
+Layer orders added
+===============================================
+* std_coverage
+* mean_coverage
+* mean_coverage_Q2Q3
+* detection
+* abundance
+* variability
+
+Data groups added
+===============================================
+* default (w/4 items)
+
+* Happy ☘
+

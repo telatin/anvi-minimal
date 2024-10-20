@@ -1,0 +1,322 @@
+Contigs DB ...................................: CONTIGS.db
+HMM sources ..................................: Bacteria_71, Archaea_76, Ribosomal_RNA_23S, Ribosomal_RNA_28S, Ribosomal_RNA_5S, Ribosomal_RNA_16S,
+                                                Ribosomal_RNA_12S, Protista_83, Ribosomal_RNA_18S
+Alphabet/context target found ................: RNA:CONTIG
+Alphabet/context target found ................: AA:GENE
+Target sequences determined ..................: 3 sequences for RNA:CONTIG; 22 sequences for AA:GENE
+
+HMM Profiling for Bacteria_71
+===============================================
+Reference ....................................: Lee modified, https://doi.org/10.1093/bioinformatics/btz188
+Kind .........................................: singlecopy
+Alphabet .....................................: AA
+Context ......................................: GENE
+Domain .......................................: bacteria
+HMM model path ...............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpksn79pl7/Bacteria_71.hmm
+Number of genes in HMM model .................: 71
+Noise cutoff term(s) .........................: --cut_ga
+Number of CPUs will be used for search .......: 4
+HMMer program used for search ................: hmmscan
+Temporary work dir ...........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh
+Log file for thread 0 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.0_log
+Log file for thread 1 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.1_log
+Log file for thread 2 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.2_log
+Log file for thread 3 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.3_log
+
+Done with Bacteria_71 🎊
+
+Number of raw hits in table file .............: 0
+
+* The HMM source 'Bacteria_71' returned 0 hits. SAD (but it's OK).
+
+HMM Profiling for Archaea_76
+===============================================
+Reference ....................................: Lee, https://doi.org/10.1093/bioinformatics/btz188
+Kind .........................................: singlecopy
+Alphabet .....................................: AA
+Context ......................................: GENE
+Domain .......................................: archaea
+HMM model path ...............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpksn79pl7/Archaea_76.hmm
+Number of genes in HMM model .................: 76
+Noise cutoff term(s) .........................: --cut_ga
+Number of CPUs will be used for search .......: 4
+HMMer program used for search ................: hmmscan
+Temporary work dir ...........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh
+Log file for thread 0 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.0_log
+Log file for thread 1 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.1_log
+Log file for thread 2 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.2_log
+Log file for thread 3 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.3_log
+
+Done with Archaea_76 🎊
+
+Number of raw hits in table file .............: 0
+
+* The HMM source 'Archaea_76' returned 0 hits. SAD (but it's OK).
+
+WARNING
+===============================================
+SequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+
+HMM Profiling for Ribosomal_RNA_23S
+===============================================
+Reference ....................................: Seeman T, https://github.com/tseemann/barrnap
+Kind .........................................: Ribosomal_RNA_23S
+Alphabet .....................................: RNA
+Context ......................................: CONTIG
+Domain .......................................: N/A
+HMM model path ...............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpksn79pl7/Ribosomal_RNA_23S.hmm
+Number of genes in HMM model .................: 2
+Noise cutoff term(s) .........................: --cut_ga
+Number of CPUs will be used for search .......: 4
+HMMer program used for search ................: nhmmscan
+Temporary work dir ...........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth
+
+WARNING
+===============================================
+You requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+Log file for thread 0 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.0_log
+Log file for thread 1 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.1_log
+Log file for thread 2 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.2_log
+
+Done with Ribosomal_RNA_23S 🎊 (and num threads requested is set back to 4).
+
+Number of raw hits in table file .............: 0
+
+* The HMM source 'Ribosomal_RNA_23S' returned 0 hits. SAD (but it's OK).
+
+WARNING
+===============================================
+SequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+
+HMM Profiling for Ribosomal_RNA_28S
+===============================================
+Reference ....................................: Seeman T, https://github.com/tseemann/barrnap
+Kind .........................................: Ribosomal_RNA_28S
+Alphabet .....................................: RNA
+Context ......................................: CONTIG
+Domain .......................................: N/A
+HMM model path ...............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpksn79pl7/Ribosomal_RNA_28S.hmm
+Number of genes in HMM model .................: 1
+Noise cutoff term(s) .........................: --cut_ga
+Number of CPUs will be used for search .......: 4
+HMMer program used for search ................: nhmmscan
+Temporary work dir ...........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth
+
+WARNING
+===============================================
+You requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+Log file for thread 0 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.0_log
+Log file for thread 1 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.1_log
+Log file for thread 2 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.2_log
+
+Done with Ribosomal_RNA_28S 🎊 (and num threads requested is set back to 4).
+
+Number of raw hits in table file .............: 0
+
+* The HMM source 'Ribosomal_RNA_28S' returned 0 hits. SAD (but it's OK).
+
+WARNING
+===============================================
+SequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+
+HMM Profiling for Ribosomal_RNA_5S
+===============================================
+Reference ....................................: Seeman T, https://github.com/tseemann/barrnap
+Kind .........................................: Ribosomal_RNA_5S
+Alphabet .....................................: RNA
+Context ......................................: CONTIG
+Domain .......................................: N/A
+HMM model path ...............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpksn79pl7/Ribosomal_RNA_5S.hmm
+Number of genes in HMM model .................: 5
+Noise cutoff term(s) .........................: --cut_ga
+Number of CPUs will be used for search .......: 4
+HMMer program used for search ................: nhmmscan
+Temporary work dir ...........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth
+
+WARNING
+===============================================
+You requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+Log file for thread 0 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.0_log
+Log file for thread 1 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.1_log
+Log file for thread 2 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.2_log
+
+Done with Ribosomal_RNA_5S 🎊 (and num threads requested is set back to 4).
+
+Number of raw hits in table file .............: 0
+
+* The HMM source 'Ribosomal_RNA_5S' returned 0 hits. SAD (but it's OK).
+
+WARNING
+===============================================
+SequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+
+HMM Profiling for Ribosomal_RNA_16S
+===============================================
+Reference ....................................: Seeman T, https://github.com/tseemann/barrnap
+Kind .........................................: Ribosomal_RNA_16S
+Alphabet .....................................: RNA
+Context ......................................: CONTIG
+Domain .......................................: N/A
+HMM model path ...............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpksn79pl7/Ribosomal_RNA_16S.hmm
+Number of genes in HMM model .................: 3
+Noise cutoff term(s) .........................: --cut_ga
+Number of CPUs will be used for search .......: 4
+HMMer program used for search ................: nhmmscan
+Temporary work dir ...........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth
+
+WARNING
+===============================================
+You requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+Log file for thread 0 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.0_log
+Log file for thread 1 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.1_log
+Log file for thread 2 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.2_log
+
+Done with Ribosomal_RNA_16S 🎊 (and num threads requested is set back to 4).
+
+Number of raw hits in table file .............: 0
+
+* The HMM source 'Ribosomal_RNA_16S' returned 0 hits. SAD (but it's OK).
+
+WARNING
+===============================================
+SequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+
+HMM Profiling for Ribosomal_RNA_12S
+===============================================
+Reference ....................................: Seeman T, https://github.com/tseemann/barrnap
+Kind .........................................: Ribosomal_RNA_12S
+Alphabet .....................................: RNA
+Context ......................................: CONTIG
+Domain .......................................: N/A
+HMM model path ...............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpksn79pl7/Ribosomal_RNA_12S.hmm
+Number of genes in HMM model .................: 1
+Noise cutoff term(s) .........................: --cut_ga
+Number of CPUs will be used for search .......: 4
+HMMer program used for search ................: nhmmscan
+Temporary work dir ...........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth
+
+WARNING
+===============================================
+You requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+Log file for thread 0 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.0_log
+Log file for thread 1 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.1_log
+Log file for thread 2 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.2_log
+
+Done with Ribosomal_RNA_12S 🎊 (and num threads requested is set back to 4).
+
+Number of raw hits in table file .............: 0
+
+* The HMM source 'Ribosomal_RNA_12S' returned 0 hits. SAD (but it's OK).
+
+WARNING
+===============================================
+SequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+
+HMM Profiling for Protista_83
+===============================================
+Reference ....................................: Delmont, http://merenlab.org/delmont-euk-scgs
+Kind .........................................: singlecopy
+Alphabet .....................................: AA
+Context ......................................: GENE
+Domain .......................................: eukarya
+HMM model path ...............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpksn79pl7/Protista_83.hmm
+Number of genes in HMM model .................: 83
+Noise cutoff term(s) .........................: -E 1e-25
+Number of CPUs will be used for search .......: 4
+HMMer program used for search ................: hmmscan
+Temporary work dir ...........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh
+Log file for thread 0 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.0_log
+Log file for thread 1 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.1_log
+Log file for thread 2 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.2_log
+Log file for thread 3 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmp6ga2mdbh/AA_gene_sequences.fa.3_log
+
+Done with Protista_83 🎊
+
+Number of raw hits in table file .............: 0
+
+* The HMM source 'Protista_83' returned 0 hits. SAD (but it's OK).
+
+WARNING
+===============================================
+SequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+
+HMM Profiling for Ribosomal_RNA_18S
+===============================================
+Reference ....................................: Seeman T, https://github.com/tseemann/barrnap
+Kind .........................................: Ribosomal_RNA_18S
+Alphabet .....................................: RNA
+Context ......................................: CONTIG
+Domain .......................................: N/A
+HMM model path ...............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpksn79pl7/Ribosomal_RNA_18S.hmm
+Number of genes in HMM model .................: 1
+Noise cutoff term(s) .........................: --cut_ga
+Number of CPUs will be used for search .......: 4
+HMMer program used for search ................: nhmmscan
+Temporary work dir ...........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth
+
+WARNING
+===============================================
+You requested 4 cores but there were only 3 sequences in the FASTA file for the
+target 'RNA:CONTIG'. Anvi'o will use 3 processes with 1 core instead. And that's
+that.
+
+Log file for thread 0 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.0_log
+Log file for thread 1 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.1_log
+Log file for thread 2 ........................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpa16_ruth/RNA_contig_sequences.fa.2_log
+
+Done with Ribosomal_RNA_18S 🎊 (and num threads requested is set back to 4).
+
+Number of raw hits in table file .............: 0
+
+* The HMM source 'Ribosomal_RNA_18S' returned 0 hits. SAD (but it's OK).
+
+WARNING
+===============================================
+SequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+

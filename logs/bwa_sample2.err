@@ -1,0 +1,14 @@
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[W::bseq_read] the 2nd file has fewer sequences.
+[M::process] read 1236 sequences (123600 bp)...
+[W::bseq_read] the 2nd file has fewer sequences.
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 0, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] skip orientation FR as there are not enough pairs
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 1236 reads in 0.019 CPU sec, 0.005 real sec
+[W::bseq_read] the 2nd file has fewer sequences.
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 4 ref/contigs.fa reads/sample2_R1.fastq.gz reads/sample2_R2.fastq.gz
+[main] Real time: 0.010 sec; CPU: 0.027 sec

@@ -1,0 +1,20 @@
+Database .....................................: "CONTIGS.db" has been initiated with its 27 tables.
+Table ........................................: "splits_basic_info" has been read with 3 entries and 8 columns.
+
+Matrix format ................................: False
+Output .......................................: splits_table.tsv
+Database .....................................: "CONTIGS.db" has been initiated with its 27 tables.
+Table ........................................: "genes_in_splits" has been read with 22 entries and 5 columns.
+
+Matrix format ................................: False
+Output .......................................: genes_splits_table.tsv
+Database .....................................: "CONTIGS.db" has been initiated with its 27 tables.
+Table ........................................: "genes_in_contigs" has been read with 22 entries and 9 columns.
+
+Matrix format ................................: False
+Output .......................................: genes_contigs.tsv
+Database .....................................: "CONTIGS.db" has been initiated with its 27 tables.
+Table ........................................: "contig_sequences" has been read with 3 entries and 2 columns.
+
+Matrix format ................................: False
+Output .......................................: contigs_table.tsv

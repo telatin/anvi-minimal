@@ -1,0 +1,23 @@
+COG version ..................................: COG20
+COG data source ..............................: The anvi'o default.
+COG base directory ...........................: /Users/telatina/miniconda3/envs/anvio-8/lib/python3.10/site-packages/anvio/data/misc/COG
+COG data directory ...........................: /Users/telatina/miniconda3/envs/anvio-8/lib/python3.10/site-packages/anvio/data/misc/COG/COG20
+Searching with ...............................: diamond
+Directory to store temporary files ...........: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpuxb87ggz
+Directory will be removed after the run ......: True
+
+DIAMOND BLASTP
+===============================================
+Additional params for blastp .................: 
+Search results ...............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpuxb87ggz/diamond-search-results.txt
+
+DIAMOND VIEW
+===============================================
+Diamond  tabular output file .................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpuxb87ggz/diamond-search-results.txt
+COG version ..................................: COG20
+COG data source ..............................: The anvi'o default.
+COG base directory ...........................: /Users/telatina/miniconda3/envs/anvio-8/lib/python3.10/site-packages/anvio/data/misc/COG
+Gene functions ...............................: 13 function calls from 3 sources (COG20_PATHWAY, COG20_FUNCTION, COG20_CATEGORY) for 6 unique gene
+                                                calls have been added to the contigs database.
+
+✓ anvi-run-ncbi-cogs took 0:00:13.706553

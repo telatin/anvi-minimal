@@ -1,0 +1,4 @@
+split	Source	Phylum	Class	Order	RNAP-a	RNAP-b	DNApolB	TFIIS	Primase	VLTF3	pATPase	MCP_double_jelly-roll	MCP_HK97	Signal_Temperate	Signal_Polar	Signal_Size_01	Signal_Size_02	
+c_000000000001A_split_00001	Reference	Nucleocytoviricota	Megaviricetes	Pippovirales	1	1	1	1	3	1	0	0	0	0	0	0	0	0	0	0	119343
+c_000000000001B_split_00001	Reference	Nucleocytoviricota	Megaviricetes	Pimascovirales	2	1	1	1	3	1	1	1	0	0	0	0	0	0	0	0	119343
+c_000000000002A_split_00001	Reference	Nucleocytoviricota	Megaviricetes	Pippovirales	1	1	1	1	3	1	0	0	0	0	0	0	0	0	0	0	119343

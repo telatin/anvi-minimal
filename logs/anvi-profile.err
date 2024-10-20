@@ -1,0 +1,44 @@
+Sample name set ...................................: sample1
+Description .......................................: None
+Profile DB path ...................................: /Users/telatina/Downloads/EBAME9/WORKFLOW_MATERIAL/genoems/anvi-minimal/bam/sample1/PROFILE.db
+Contigs DB path ...................................: CONTIGS.db
+Contigs DB hash ...................................: hash5ffc30af
+Command line ......................................: /Users/telatina/miniconda3/envs/anvio-8/bin/anvi-profile -i bam/sample1.bam -c CONTIGS.db -T 4 -o bam/sample1
+
+Minimum percent identity of reads to be profiled ..: None
+Fetch filter engaged ..............................: None
+
+Is merged profile? ................................: False
+Is blank profile? .................................: False
+Skip contigs shorter than .........................: 1,000
+Skip contigs longer than ..........................: 9,223,372,036,854,775,807
+Perform hierarchical clustering of contigs? .......: False
+
+Profile single-nucleotide variants (SNVs)? ........: True
+Profile single-codon variants (SCVs/+SAAVs)? ......: False
+Profile insertion/deletions (INDELs)? .............: True
+Minimum coverage to calculate SNVs ................: 10
+Report FULL variability data? .....................: False
+
+WARNING
+====================================================
+Your minimum contig length is set to 1,000 base pairs. So anvi'o will not take
+into consideration anything below that. If you need to kill this an restart your
+analysis with another minimum contig length value, feel free to press CTRL+C.
+
+Input BAM .........................................: /Users/telatina/Downloads/EBAME9/WORKFLOW_MATERIAL/genoems/anvi-minimal/bam/sample1.bam
+Output directory path .............................: /Users/telatina/Downloads/EBAME9/WORKFLOW_MATERIAL/genoems/anvi-minimal/bam/sample1
+
+Number of reads in the BAM file ...................: 1,252
+Number of sequences in the contigs DB .............: 3
+Number of contigs to be conisdered (after -M) .....: 3
+Number of splits ..................................: 3
+Number of nucleotides .............................: 10,285
+
+Num SNVs reported .................................: 0
+Num INDELs reported ...............................: 0
+
+Additional data added to the new profile DB .......: total_reads_mapped, num_SNVs_reported, num_INDELs_reported, total_reads_kept
+
+* Happy 😇
+

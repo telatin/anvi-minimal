@@ -1,0 +1,61 @@
+
+WARNING
+===============================================
+The version of tRNAscan-SE installed on your system ('2.0.12') is not one of
+those that we tested its anvi'o driver with. Anvi'o will continue to try to run
+everything as if this didn't happen. If you see this warning but everything
+works fine, let us know so we can include this version number into the list of
+'tested' version numbers. If you see an unexpected error, please consider
+installing one of these versions of tRNAScan-SE (and again please let us know
+anyway so we can address it for later): '2.0.5, 2.0.7, 2.0.9'
+
+
+WARNING
+===============================================
+SequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+Temporary dir ................................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpmxy2aown
+FASTA file for contigs .......................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpmxy2aown/contig_sequences.fa
+tRNA hits output .............................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpmxy2aown/hits_file.txt
+Log file .....................................: /var/folders/qf/64kyljyn0njdfbz8nyrgjv8h000cb1/T/tmpmxy2aown/log.txt
+Cutoff score .................................: 20
+tRNAscan-SE version found ....................: 2.0.12
+
+
+WARNING
+===============================================
+The version of tRNAscan-SE installed on your system ('2.0.12') is not one of
+those that we tested its anvi'o driver with. Anvi'o will continue to try to run
+everything as if this didn't happen. If you see this warning but everything
+works fine, let us know so we can include this version number into the list of
+'tested' version numbers. If you see an unexpected error, please consider
+installing one of these versions of tRNAScan-SE (and again please let us know
+anyway so we can address it for later): '2.0.5, 2.0.7, 2.0.9'
+
+
+CITATION
+===============================================
+Anvi'o will use 'tRNAScan-SE' by Chan and Lowe (doi:10.1007/978-1-4939-9173-0_1)
+to identify tRNA sequences in your data. When you publish your findings, please
+do not forget to properly credit their work.
+
+
+WARNING
+===============================================
+No tRNA genes found in tRNAScan-SE output.
+
+Num tRNA genes recovered .....................: 0
+
+WARNING
+===============================================
+SequencesForHMMHits class here. The current database (at CONTIGS.db) contains 0
+HMM hits, at least within the HMM sources or splits that were requested. It
+might not be a problem for your case, but we just thought you should know, in
+case it is. So there you have it.
+
+
+* Temp directory is now cleaned (if you would like to keep it the next time use
+  the flag `--debug`).

@@ -1,0 +1,14 @@
+{
+    "reference": "ref/contigs.fa",
+    "reads": [
+        "reads/sample1_R1.fastq.gz",
+        "reads/sample2_R1.fastq.gz"
+    ],
+    "threads": {
+        "bwa_index": 4,
+        "bwa_mem": 4,
+        "anvi_contigs_db": 4,
+        "anvi_profile": 4,
+        "anvi_merge": 4
+    }
+}

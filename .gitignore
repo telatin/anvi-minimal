@@ -1,0 +1,7 @@
+CONTIGS.db
+AUXILIARY-DATA.db
+PROFILE.db
+*.tsv
+contigs.done
+.snakemake/
+*.done
