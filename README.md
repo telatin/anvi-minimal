@@ -39,3 +39,8 @@ c_000000000001A_split_00001     Reference       Nucleocytoviricota
 c_000000000001B_split_00001     Inference       Nucleocytoviricota
 c_000000000002A_split_00001     Reference       Aliumviricota
 ```
+
+:question: How to add metadata at at the split level? How should the header look like?
+
+
+:question: How to add metadata at at the gene level? 
