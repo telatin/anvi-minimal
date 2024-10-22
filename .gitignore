@@ -5,3 +5,6 @@ PROFILE.db
 contigs.done
 .snakemake/
 *.done
+get_docs.sh
+anvio.org/
+.DS_Store

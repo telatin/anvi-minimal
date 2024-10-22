@@ -15,6 +15,8 @@ The reference:
 └────────────┴──────┴──────────┴───────┴───────┴───────┘
 ```
 
+![Example](extras/demo.png)
+
 ## Generate Anvi'o databases
 
 1. Activate Anvio-8 environment
