@@ -40,7 +40,13 @@ c_000000000001B_split_00001     Inference       Nucleocytoviricota
 c_000000000002A_split_00001     Reference       Aliumviricota
 ```
 
-:question: How to add metadata at at the split level? How should the header look like?
+## Desired goals
 
+:question: **How to add metadata at at the split level? How should the header look like?**
 
-:question: How to add metadata at at the gene level? 
+* Similar to adding a metadata file for manual trees: `anvi-interactive --manual-mode -t PhylogenoE.treefile -d metadata.txt -p PROFILE.db`
+
+:question: **How to add metadata at at the gene level?**
+
+* In this case I'm less sure what I could achieve, but the idea is to import gene-level annotations
+
