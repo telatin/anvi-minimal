@@ -2,8 +2,8 @@
 
 Minimal example of metagenome:
 
-* ref/contigs.fa
-* reads/
+* [ref/contigs.fa](ref/contigs.fa)
+* [reads/](reads/)
 
 The reference:
 
